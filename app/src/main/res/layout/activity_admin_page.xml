@@ -61,7 +61,6 @@
                 android:backgroundTint="#DDDDDD"
                 android:id="@+id/c1"
                 android:layout_centerVertical="true"
-                android:layout_marginLeft="70dp"
                 >
                 <RelativeLayout
                     android:layout_width="match_parent"
